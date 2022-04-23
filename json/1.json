@@ -1,0 +1,35 @@
+{
+  "name": "CryptoNitro #1",
+  "description": "CryptoNitro is the new NFT game for you who want to win money at a furious pace. To win there is no secret, only one rule: the faster you go, the more money you earn!",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "fc081da9005ea56bda9310ea8cd062a07b6d5337",
+  "edition": 1,
+  "date": 1650720548805,
+  "attributes": [
+    {
+      "trait_type": "Car",
+      "value": "alionon_black"
+    },
+    {
+      "trait_type": "Engine",
+      "value": "2"
+    },
+    {
+      "trait_type": "Nitro",
+      "value": "5"
+    },
+    {
+      "trait_type": "Tires",
+      "value": "1"
+    },
+    {
+      "trait_type": "Transmission",
+      "value": "4"
+    },
+    {
+      "trait_type": "Turbo",
+      "value": "3"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
